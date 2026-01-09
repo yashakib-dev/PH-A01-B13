@@ -152,3 +152,46 @@ header {
     font-size: 16px;
 }
 
+
+/* solution section code */
+
+#solution{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1360px;
+  width: 85%;
+  margin: 0 auto;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.sol-text h4{
+  color: #30B868;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  
+}
+.sol-text h2{
+  color: #001931;
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  
+}
+.sol-text .text{
+  color: #627382;
+  font-size: 16px;
+  margin-bottom: 20px;
+
+}
+.check-box{
+  color: #001931;
+  font-size: 16px;
+  font-weight: 500;
+  align-items: center;
+}
+
+
+
