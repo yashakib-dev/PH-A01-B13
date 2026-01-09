@@ -115,7 +115,7 @@ header {
   color: #001931;
   font-size: 48px;
   font-weight: bold;
-  margin-top: 50px;
+  margin-top: 80px;
   margin-bottom: 16px;
 }
 #notes p {
@@ -131,13 +131,14 @@ header {
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
-    margin-bottom: 60px;
+  
 }
 .card {
   width: 322px;
   height: 300px;
   padding: 24px;
   border-radius: 8px;
+  align-items: center;
   box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.06);
   
 
@@ -159,7 +160,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1360px;
+  max-width: 1360px; 
   width: 85%;
   margin: 0 auto;
   padding-top: 120px;
@@ -193,5 +194,46 @@ header {
   align-items: center;
 }
 
+/* Challenges section code */
+#challenges{
+  width: 85%;
+  max-width: 1360px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #F7F6F2;
+  border-radius: 12px;
+  padding: 80px 40px 80px 40px;
 
+}
+
+#challenges h2{
+  color: #001931;
+  font-size: 44px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+#challenges p{
+  color: #627382;
+  font-size: 16px;
+  
+}
+.bttn4{
+  background-color: #30b868;
+  color: #ffffff;
+  width: 194px;
+  height: 52px;
+  padding: 12px 16px 12px 16px;
+  border: none;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+#cradit{
+  color: #627382;
+  font-size: 16px;
+  
+}
 
