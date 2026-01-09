@@ -57,7 +57,7 @@ li a {
   padding: 115px 120px 179px 120px;
 }
 header {
-  background-image: url("./assets/hero-bg.png");
+  background-image: url("../assets/hero-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
