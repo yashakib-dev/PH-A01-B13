@@ -12,6 +12,10 @@
 .navigation{
  background-color: #ffffff;
 }
+.navigation a:hover{
+  background-color: #30b86979;
+  border-radius: 5px;
+}
 nav {
    width: 85%;
   max-width: 1360px;
@@ -284,5 +288,10 @@ header {
   font-size: 16px;
   text-align: center;
 
+}
+.bttn:hover{
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.299);
+  cursor: pointer;
+  background-color: green;
 }
 
